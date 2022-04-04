@@ -25,14 +25,14 @@ const config = {
                     routeBasePath: '/',
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/mhsiungw/minhsiungw.github.io',
+                    editUrl: 'https://github.com/mhsiungw/minhsiungw.github.io/edit/main',
                 },
                 blog: {
                     path: 'portfolio',
                     routeBasePath: 'portfolio',
                     showReadingTime: true,
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/mhsiungw/minhsiungw.github.io',
+                    editUrl: 'https://github.com/mhsiungw/minhsiungw.github.io/edit/main',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
