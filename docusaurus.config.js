@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
     title: 'min',
     url: 'https://minhsiungw.github.io',
-    baseUrl: '/',
+    baseUrl: '/minhsiungw.github.io/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
