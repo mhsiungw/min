@@ -12,7 +12,7 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'minhsiungw', // Usually your GitHub org/user name.
+    organizationName: 'mhsiungw', // Usually your GitHub org/user name.
     projectName: 'minhsiungw.github.io', // Usually your repo name.
     deploymentBranch: 'gh-pages',
     trailingSlash: false,
