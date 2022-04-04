@@ -13,8 +13,9 @@ const config = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'minhsiungw', // Usually your GitHub org/user name.
-    projectName: 'docusaurus-blog', // Usually your repo name.
-
+    projectName: 'minhsiungw.github.io', // Usually your repo name.
+    deploymentBranch: 'gh-pages',
+    trailingSlash: false,
     presets: [
         [
             'classic',
