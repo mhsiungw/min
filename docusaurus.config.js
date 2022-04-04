@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'min',
-    url: 'https://minhsiungw.github.io',
-    baseUrl: '/minhsiungw.github.io/',
+    url: 'https://mhsiungw.github.io/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
