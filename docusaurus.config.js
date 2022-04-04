@@ -59,6 +59,11 @@ const config = {
                         label: 'GitHub',
                         position: 'right',
                     },
+                    {
+                        href: 'https://www.linkedin.com/in/min-hsiung-wang-0260a0176/',
+                        label: 'LinkedIn',
+                        position: 'right',
+                    },
                 ],
             },
             footer: {
