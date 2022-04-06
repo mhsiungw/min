@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'min',
+    title: `min`,
     url: 'https://mhsiungw.github.io/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -44,6 +44,14 @@ const config = {
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+            metadata: [
+                { name: `min`, content: ' JavaScript, CSS, HTML, Engineering, Front End' },
+                { property: 'og:type', content: 'website' },
+                { property: 'og:title', content: `min's blog` },
+                { property: 'og:url', content: `https://mhsiungw.github.io/` },
+                { property: 'og:site_name', content: 'min' },
+                { property: 'og:locale', content: 'content="zh-tw"' },
+            ],
             navbar: {
                 title: 'Min',
                 items: [
