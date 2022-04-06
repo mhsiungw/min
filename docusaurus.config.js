@@ -51,6 +51,8 @@ const config = {
                 { property: 'og:url', content: `https://mhsiungw.github.io/` },
                 { property: 'og:site_name', content: 'min' },
                 { property: 'og:locale', content: 'content="zh-tw"' },
+                { property: 'name', content: 'google-site-verification' },
+                { property: 'content', content: 'LnTyWztsYTw1T9FWAzT5QBAwrO4JPfGYbGH1D3Epg2U' },
             ],
             navbar: {
                 title: 'Min',
