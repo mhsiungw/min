@@ -1,7 +1,6 @@
 ---
 title: 使用 docusaurus 快速打造部落格
 keywords: [docusaurus, blog, 快速打造部落格]
-position: 4
 ---
 
 # 使用 docusaurus 快速打造部落格
