@@ -2,6 +2,7 @@
 title: Why do we need TypeScript?
 slug: why-do-we-need-typescript
 keywords: [TypeScript]
+description: Reasons why we need TypeScript
 ---
 
 # Why do we need TypeScript?

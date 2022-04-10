@@ -2,6 +2,7 @@
 title: How do we use TypeScript?
 slug: how-do-we-use-typescript
 keywords: [TypeScript]
+description: Ways we use TypeScript
 ---
 
 # How do we use TypeScript?

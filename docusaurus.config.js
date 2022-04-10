@@ -7,6 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: `min`,
+    tagline: 'JavaScript, CSS, HTML, Front-end develpment',
     url: 'https://mhsiungw.github.io/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
