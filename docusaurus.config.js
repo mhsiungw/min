@@ -59,7 +59,7 @@ const config = {
                 items: [
                     {
                         type: 'doc',
-                        docId: 'Javascript/Javascript',
+                        docId: 'building-blog-with-docusaurus',
                         position: 'left',
                         label: 'Docs',
                     },

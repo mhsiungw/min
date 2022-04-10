@@ -1,4 +1,6 @@
 ---
+id: building-blog-with-docusaurus
+slug: /
 title: 使用 docusaurus 快速打造部落格
 keywords: [docusaurus, blog, 快速打造部落格]
 ---
