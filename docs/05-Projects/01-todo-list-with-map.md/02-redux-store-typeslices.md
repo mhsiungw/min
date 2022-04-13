@@ -13,6 +13,8 @@ description: Build a todolist with map
 
 This flow chart describes the connection between each file, and we'll start with `todoSlices` under `slice` subfolder.
 
+<br/>
+
 ## Define type information
 
 To take advantage of TypeScript, we first define how our data's type will look like.
@@ -44,6 +46,8 @@ Then, we import `createSlices` and `PayloadAction` from `redux-toolkit`
 ```ts
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
 ```
+
+<br/>
 
 ## Writing Slices
 
