@@ -14,26 +14,40 @@ Quality is not guaranteed but I'll try my best.
    Closure can mean an innter function that has a reference to the variables in its outer function scope.  
    Or it simply means the environment the inner function is declared. Closures are helpful because it makes private method and variables possible.
 
-2. Difference between `var`, `let` and `const`.  
-   `var` declares a function-scoped variable while variables declared using `let` and `const` are block-scoped.
-   
-   ```js
-   'use strict'
+<br/>
 
-   var a = 1
-   let b = 1
-   const c = 1
+2. Difference between `var`, `let` and `const`.
 
-   {
-   var a = 2
-   let b = 2 //// limited to the scope of this block
-   const c = 2  // limited to the scope of this block
-   }
+    ### Scope
 
-   console.log('var', a) // 2
-   console.log('let', b) // 1
-   console.log('const', c) // 1
-   ```
+    `var` declares a function-scoped variable while variables declared using `let` and `const` are block-scoped.
 
+    ```js
+    'use strict'
+
+    var a = 1
+    let b = 1
+    const c = 1
+
+    {
+        var a = 2
+        let b = 2 //// limited to the scope of this block
+        const c = 2 // limited to the scope of this block
+    }
+
+    console.log('var', a) // 2
+    console.log('let', b) // 1
+    console.log('const', c) // 1
+    ```
+
+    ### Global object
+
+    A variable declared using `var` is added as a property of global object (`globalThis`). `const` and `let` don't act like this.
+
+    ```js
+    var a = 123
+
+    console.log(globalThis.hasOwnProperty('a')) // true
+    ```
 
 (...to be continued)
