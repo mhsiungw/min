@@ -50,4 +50,22 @@ Quality is not guaranteed but I'll try my best.
     console.log(globalThis.hasOwnProperty('a')) // true
     ```
 
+3. What's an `async` function?
+
+    `async` function is a function declared with `async` keyword. We can use `await` keyword inside `async` function to make asynchronous behaviour possible without writing promise chains (`then`, `catch`, `finally`)
+
+    ```js
+    async function asyFn() {
+        const data = await somePromiseFn()
+        console.log(data)
+    }
+    ```
+
+4. What is synchronous and what is asynchronous?
+   JavaScript is a single-threaded and synchronous language, which means no code is executed concurrently.
+   But synchronous also means the code can be blocking, and it's not ideal.
+   For this problem, we need code that is asynchronous.
+   Asynchronous code will not block our code execution, which means the code comes later doesn't have to wait until it's finised.
+   **It can be executed at a certain time in the future**. (handlers in `addEventListeners`, async await function).
+
 (...to be continued)
