@@ -1,8 +1,10 @@
 ---
 title: Common JS interview questions
 slug: common-js-interview-quesitons
-keywords: [TypeScript]
+keywords: [javascript]
 ---
+
+# Common JS Interview Questions
 
 This article is my attempt to answer common questions we see during interviews.
 
@@ -50,6 +52,8 @@ Quality is not guaranteed but I'll try my best.
     console.log(globalThis.hasOwnProperty('a')) // true
     ```
 
+<br/>
+
 3. What's an `async` function?
 
     `async` function is a function declared with `async` keyword. We can use `await` keyword inside `async` function to make asynchronous behaviour possible without writing promise chains (`then`, `catch`, `finally`)
@@ -61,11 +65,38 @@ Quality is not guaranteed but I'll try my best.
     }
     ```
 
-4. What is synchronous and what is asynchronous?
+<br/>
+
+4. What is synchronous and what is asynchronous?  
    JavaScript is a single-threaded and synchronous language, which means no code is executed concurrently.
    But synchronous also means the code can be blocking, and it's not ideal.
    For this problem, we need code that is asynchronous.
    Asynchronous code will not block our code execution, which means the code comes later doesn't have to wait until it's finised.
    **It can be executed at a certain time in the future**. (handlers in `addEventListeners`, async await function).
+
+<br/>
+
+5. How do you write asynchronous code in JavaScript?  
+   Before ES8(2017) we use promise and promise chain to write asynchronous code. But with async/await syntax introducing in 2017,
+   We have a more intuitive option.
+
+    For example:
+
+    ```js
+    // promise chain
+    fetch('url')
+        .then((res) => res.json)
+        .then((json) => console.log(json))
+    ```
+
+    ```js
+    // async await
+    async function fetchData() {
+        const res = await fetch('url')
+        const json = res.json()
+
+        console.log(json)
+    }
+    ```
 
 (...to be continued)
