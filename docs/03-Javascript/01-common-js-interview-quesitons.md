@@ -77,7 +77,7 @@ Quality is not guaranteed but I'll try my best.
 <br/>
 
 5. How do you write asynchronous code in JavaScript?  
-   Before ES8(2017) we use promise and promise chain to write asynchronous code. But with async/await syntax introducing in 2017,
+   Before ES8(2017) we use promise and promise chain to write asynchronous code. But with async/await syntax introduced in 2017,
    We have a more intuitive option.
 
     For example:
@@ -98,5 +98,13 @@ Quality is not guaranteed but I'll try my best.
         console.log(json)
     }
     ```
+
+6. What is `use strict`?
+
+`use strict` enables strict mode in JavaScript. Strict mode allows us to write more secure JavaScript code and reduces the chance of us polluting the global context.
+
+To enable strict mode, put `use strict` at the top of your script.
+
+Class and modules automatically enable strict mode.
 
 (...to be continued)
