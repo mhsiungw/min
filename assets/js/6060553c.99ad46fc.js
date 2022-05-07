@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmin_s_blog=self.webpackChunkmin_s_blog||[]).push([[47],{7852:function(o){o.exports=JSON.parse('{"allTagsPath":"/portfolio/tags","name":"portfolio","count":1,"permalink":"/portfolio/tags/portfolio"}')}}]);

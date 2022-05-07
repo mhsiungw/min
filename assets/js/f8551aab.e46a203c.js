@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmin_s_blog=self.webpackChunkmin_s_blog||[]).push([[743],{7574:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var l=t(7294),u=t(2600);function a(){return l.createElement(u.Z,null,l.createElement("h1",null,"My React Page min"),l.createElement("p",null,"This is a react page."))}}}]);

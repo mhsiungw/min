@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>min Blog</title>
+        <link>https://mhsiungw.github.io/min/portfolio</link>
+        <description>min Blog</description>
+        <lastBuildDate>Wed, 06 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[min's blog]]></title>
+            <link>https://mhsiungw.github.io/min/portfolio/min's blog</link>
+            <guid>min's blog</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[min's blog]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="min&amp;#39;s blog" src="/assets/images/min-blog-c2461b951e4b887b1dc82a80d4bc9ee6.png" width="2048" height="1152" class="img_E7b_"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="intro">Intro<a class="hash-link" href="#intro" title="Direct link to heading">​</a></h2><p>my personal blog.</p><ol><li><a href="https://github.com/mhsiungw/mhsiungw.github.io" target="_blank" rel="noopener noreferrer">github repo</a></li><li><a href="https://mhsiungw.github.io/" target="_blank" rel="noopener noreferrer">min's blog</a></li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="tech-stack">Tech Stack<a class="hash-link" href="#tech-stack" title="Direct link to heading">​</a></h2><ol><li><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus</a></li><li><a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">Github Pages</a></li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-i-build-it">Why I build it<a class="hash-link" href="#why-i-build-it" title="Direct link to heading">​</a></h2><ol><li>to share what interests me and make notes on it.</li><li>to connect with netizens (it now seeems difficult due to the low site ranking...)</li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-can-be-improved">What can be improved<a class="hash-link" href="#what-can-be-improved" title="Direct link to heading">​</a></h2><ol><li>SEO</li><li>needs an About Me page</li></ol>]]></content:encoded>
+            <category>portfolio</category>
+        </item>
+    </channel>
+</rss>
