@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mhsiungw.github.io/min/portfolio</id>
+    <id>https://mhsiungw.github.io/min/min/portfolio</id>
     <title>min Blog</title>
     <updated>2022-04-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://mhsiungw.github.io/min/portfolio"/>
+    <link rel="alternate" href="https://mhsiungw.github.io/min/min/portfolio"/>
     <subtitle>min Blog</subtitle>
-    <icon>https://mhsiungw.github.io/min/img/favicon.ico</icon>
+    <icon>https://mhsiungw.github.io/min/min/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[min's blog]]></title>
         <id>min's blog</id>
-        <link href="https://mhsiungw.github.io/min/portfolio/min's blog"/>
+        <link href="https://mhsiungw.github.io/min/min/portfolio/min's blog"/>
         <updated>2022-04-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[min's blog]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="min&amp;#39;s blog" src="/assets/images/min-blog-c2461b951e4b887b1dc82a80d4bc9ee6.png" width="2048" height="1152" class="img_E7b_"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="intro">Intro<a class="hash-link" href="#intro" title="Direct link to heading">​</a></h2><p>my personal blog.</p><ol><li><a href="https://github.com/mhsiungw/mhsiungw.github.io" target="_blank" rel="noopener noreferrer">github repo</a></li><li><a href="https://mhsiungw.github.io/" target="_blank" rel="noopener noreferrer">min's blog</a></li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="tech-stack">Tech Stack<a class="hash-link" href="#tech-stack" title="Direct link to heading">​</a></h2><ol><li><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus</a></li><li><a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">Github Pages</a></li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-i-build-it">Why I build it<a class="hash-link" href="#why-i-build-it" title="Direct link to heading">​</a></h2><ol><li>to share what interests me and make notes on it.</li><li>to connect with netizens (it now seeems difficult due to the low site ranking...)</li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-can-be-improved">What can be improved<a class="hash-link" href="#what-can-be-improved" title="Direct link to heading">​</a></h2><ol><li>SEO</li><li>needs an About Me page</li></ol>]]></content>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="min&amp;#39;s blog" src="/min/assets/images/min-blog-c2461b951e4b887b1dc82a80d4bc9ee6.png" width="2048" height="1152" class="img_E7b_"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="intro">Intro<a class="hash-link" href="#intro" title="Direct link to heading">​</a></h2><p>my personal blog.</p><ol><li><a href="https://github.com/mhsiungw/mhsiungw.github.io" target="_blank" rel="noopener noreferrer">github repo</a></li><li><a href="https://mhsiungw.github.io/" target="_blank" rel="noopener noreferrer">min's blog</a></li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="tech-stack">Tech Stack<a class="hash-link" href="#tech-stack" title="Direct link to heading">​</a></h2><ol><li><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus</a></li><li><a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">Github Pages</a></li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-i-build-it">Why I build it<a class="hash-link" href="#why-i-build-it" title="Direct link to heading">​</a></h2><ol><li>to share what interests me and make notes on it.</li><li>to connect with netizens (it now seeems difficult due to the low site ranking...)</li></ol><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-can-be-improved">What can be improved<a class="hash-link" href="#what-can-be-improved" title="Direct link to heading">​</a></h2><ol><li>SEO</li><li>needs an About Me page</li></ol>]]></content>
         <category label="portfolio" term="portfolio"/>
     </entry>
 </feed>
